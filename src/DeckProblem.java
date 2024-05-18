@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Deck {
+public class DeckProblem {
 
     private int[] reorder(Integer[] arr) {
 
